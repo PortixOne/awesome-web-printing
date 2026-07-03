@@ -88,6 +88,7 @@ Silent printing generally requires:
 | JSPrintManager | ❌ | ✅ | Commercial |
 | Browser Print (Zebra) | ❌ | ✅ | Zebra only |
 | Epson ePOS | ❌ | ✅ | Epson only |
+| [PortixOne](https://github.com/PortixOne/portixone) | ✅ | ✅ | Vendor-agnostic, capability-based API, MVP in Windows local printing |
 
 ---
 
@@ -196,12 +197,13 @@ Current browser support...
 - Print ESC/POS
 - Print Labels
 - Print Kitchen Ticket
+- [Runnable examples by framework (vanilla JS, React, Vue)](https://github.com/PortixOne/browser-printing-examples)
 
 ---
 
 # Standards
 
-- ESC/POS
+- [ESC/POS — quick command reference](https://github.com/PortixOne/escpos-cheatsheet)
 - ZPL
 - EPL
 - CPCL
@@ -224,7 +226,12 @@ Code signing.
 
 # Related Projects
 
-...
+Part of the PortixOne knowledge network:
+
+- [portixone](https://github.com/PortixOne/portixone) — secure edge runtime connecting web apps to local hardware
+- [browser-printing-examples](https://github.com/PortixOne/browser-printing-examples) — runnable examples by framework
+- [escpos-cheatsheet](https://github.com/PortixOne/escpos-cheatsheet) — ESC/POS command reference
+- [thermal-printer-test-files](https://github.com/PortixOne/thermal-printer-test-files) — real `.bin` test files for printers/parsers
 
 ---
 
