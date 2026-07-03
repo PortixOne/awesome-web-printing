@@ -229,6 +229,7 @@ Code signing.
 Part of the PortixOne knowledge network:
 
 - [portixone](https://github.com/PortixOne/portixone) — secure edge runtime connecting web apps to local hardware
+- [portix.dev](https://github.com/PortixOne/portix.dev) — developer portal (docs, tutorials, roadmap, changelog)
 - [browser-printing-examples](https://github.com/PortixOne/browser-printing-examples) — runnable examples by framework
 - [escpos-cheatsheet](https://github.com/PortixOne/escpos-cheatsheet) — ESC/POS command reference
 - [thermal-printer-test-files](https://github.com/PortixOne/thermal-printer-test-files) — real `.bin` test files for printers/parsers
